@@ -363,6 +363,7 @@ section {
 
   #About {
     background-position-y: 8rem;
+    background-size: cover;
   }
 
   .Text {
