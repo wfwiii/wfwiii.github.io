@@ -89,22 +89,35 @@ section {
   background-image: url(https://imgur.com/GiVnGZC.jpg);
   background-position-y: top;
   background-size: cover;
+  background-position-x: center;
 }
 
 #Education {
   background-image: url(https://picsum.photos/id/153/1600/900);
+  background-position-y: top;
+  background-size: cover;
+  background-position-x: center;
 }
 
 #TechnicalSkills {
   background-image: url(https://picsum.photos/id/10/1600/900);
+  background-position-y: top;
+  background-size: cover;
+  background-position-x: center;
 }
 
 #Experience {
   background-image: url(https://picsum.photos/id/352/1600/900);
+  background-position-y: top;
+  background-size: cover;
+  background-position-x: center;
 }
 
 #Contact {
   background-image: url(https://picsum.photos/id/366/1600/900);
+  background-position-y: top;
+  background-size: cover;
+  background-position-x: center;
 }
 
 #react {
