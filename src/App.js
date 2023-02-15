@@ -148,7 +148,7 @@ function App() {
       <footer>
         <ul>
           <li>
-            <a href="https://github.com/wwwoods1016">
+            <a href="https://github.com/wfwiii/wfwiii.github.io">
               <FontAwesomeIcon icon={["fab", "github"]} />
             </a>
           </li>
