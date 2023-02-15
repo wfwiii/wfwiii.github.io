@@ -361,8 +361,13 @@ section {
     height: auto;
   }
 
+  #About {
+    background-position-y: 8rem;
+  }
+
   .Text {
     height: auto;
+    margin: 8rem 0;
   }
 
   section h2 {
