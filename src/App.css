@@ -86,7 +86,9 @@ section {
 }
 
 #About {
-  background-image: url(https://picsum.photos/id/6/1600/900);
+  background-image: url(https://imgur.com/GiVnGZC.jpg);
+  background-position-y: top;
+  background-size: cover;
 }
 
 #Education {
