@@ -11,7 +11,9 @@ function App() {
     <div className="App">
       <header>
         <h1>Will Woods</h1>
-        <p id="react">Built with React <FontAwesomeIcon icon={["fab", "react"]} /></p>
+        <p id="react">
+          Built with React <FontAwesomeIcon icon={["fab", "react"]} />
+        </p>
         <p id="tagline">
           Experienced Operations Manager Seeking Jr. Developer Role
         </p>
@@ -40,15 +42,21 @@ function App() {
         <section id="About">
           <div className="Text">
             <h2>About Me</h2>
+            <p>Greetings! </p>
             <p>
-              Looking for an ambitious and driven entry-level software engineer
-              to join your team in Atlanta? Look no further! With a background
-              in operations management, technical proficiency, and a tenacious
-              work ethic, I am ready to contribute to your company's growth and
-              success. As a lifelong learner and dedicated team player, I am
-              committed to staying up-to-date with the latest software
-              engineering and development trends. Join forces with me today and
-              let's take your business to new heights!
+              Are you on the lookout for a top-notch entry-level software
+              engineer to join your team in Atlanta? Your search ends here. With
+              strong technical profeciency, a background in operations
+              management, and a steadfast work ethic, I am ready to help drive
+              your company's growth and success.
+              <p>
+                My commitment to staying up-to-date with the latest software
+                engineering and development trends, coupled with a lifelong
+                passion for learning and a dedication to being a team player
+                (and leader), makes me an ideal candidate for your organization.
+                Join hands with me today, and let's steer your business towards
+                new horizons.
+              </p>
             </p>
           </div>
         </section>
