@@ -365,7 +365,7 @@ section {
     background-position-y: 8rem;
     background-size: cover;
     background-position-x: center;
-    background-size: contain;
+    background-repeat: no-repeat;
   }
 
   .Text {
