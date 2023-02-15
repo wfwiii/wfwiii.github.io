@@ -18,7 +18,7 @@ function App() {
         <nav>
           <ul>
             <li>
-              <a href="#About">About</a>
+              <a href="#About">About Me</a>
             </li>
             <li>
               <a href="#Education">Education</a>
@@ -39,7 +39,7 @@ function App() {
       <main>
         <section id="About">
           <div className="Text">
-            <h2>About</h2>
+            <h2>About Me</h2>
             <p>
               Looking for an ambitious and driven entry-level software engineer
               to join your team in Atlanta? Look no further! With a background
