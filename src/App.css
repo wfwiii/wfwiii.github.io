@@ -56,6 +56,10 @@ nav ul {
   display: flex;
 }
 
+nav ul li {
+  padding: 1rem 2rem;
+}
+
 nav ul li:not(:last-child) {
   margin-right: 3rem;
 }
@@ -64,9 +68,10 @@ nav ul li a {
   font-size: 1.5rem;
   font-weight: 500;
   transition: color 0.5s;
+
 }
 
-nav ul li a:hover {
+#test {
   color: #8d6c9f;
 }
 
@@ -203,9 +208,9 @@ section {
   filter: opacity(0.75);
   color: black;
   box-shadow: 0 2rem 4rem rgba(0, 0, 0, 1);
-  width: 100%;
+  max-width: 800px;
   min-height: 50%;
-  padding: 2rem;
+  padding: 8rem;
   border: 2px 0px solid black;
   display: flex;
   flex-direction: row;
@@ -215,9 +220,6 @@ section {
   overflow: auto;
 }
 
-.Text p {
-  width: 100%;
-}
 
 #Skills {
   display: flex;

@@ -19,7 +19,7 @@ function App() {
         </p>
         <nav>
           <ul>
-            <li>
+            <li id="aboutbtn">
               <a href="#About">About Me</a>
             </li>
             <li>
@@ -41,7 +41,7 @@ function App() {
       <main>
         <section id="About">
           <div className="Text">
-            <h2>About Me</h2>
+            <h2 id="test">About Me</h2>
             <p>Greetings! </p>
             <p>
               Are you on the lookout for a top-notch entry-level software
